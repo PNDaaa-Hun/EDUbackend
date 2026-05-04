@@ -1,0 +1,9 @@
+CorrelationId: 1e4bead0-3e71-4e74-bc40-4bc61e1f0d51
+UTC DateTime: 10/21/2025 12:34:50
+
+The following files/folders have not been downloaded
+0. 20251006/20251006/obj/Debug/net8.0/20251006.csproj.BuildWithSkipAnalyzers
+1. 20251006/20251006/obj/Debug/net8.0/20251006.csproj.Up2Date
+2. 20251006/20251006/obj/Debug/net8.0/20251006.MvcApplicationPartsAssemblyInfo.cache
+3. 20251006/20251006/obj/Debug/net8.0/staticwebassets.references.upToDateCheck.txt
+4. 20251006/20251006/obj/Debug/net8.0/staticwebassets.removed.txt

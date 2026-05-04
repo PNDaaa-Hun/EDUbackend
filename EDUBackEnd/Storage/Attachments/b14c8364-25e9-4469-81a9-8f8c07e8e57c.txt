@@ -1,0 +1,24 @@
+Készítsen legalább 4 oldalas tervet a vizsgán beaadandó "Vizsgaremek" elkészítéséről
+
+Tartalmazzon 
+
+legalább 5 leírást a használandó hálózati eszközök/software-k ismertetésével, képpel
+
+Időrendi táblázatot a tervezett műveletekről
+
+Az egyes feladatrészek elkészítéshez szükséges feltételekről
+
+
+Formátuma:
+
+Élőfej: aktuális fejezetcímekkel
+Élőláb: automatikus sorszámozással
+
+A fejezetcímek legalább kétszintesek legyenek, használjon dőlt, és félkövér betűformátumokat a szintek elkülönítésére
+
+Készítsen automatikus tartalomjegyzéket
+Készítsen automatikus ábrajegyzéket
+
+A szöveg/kép elhelyezésnél használjon azonos arányokat (oldaltükröt)
+
+A dokumentum végén tegyen nyilatkozatot, automatikus dátumaktualizálással, hogy a terv az ön kizárólagos, és mások jogait nem sértő munka.
